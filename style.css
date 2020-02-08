@@ -1,6 +1,6 @@
 body {
       font: status-bar;
-      background-color: blue;
+      background-image:url("bg.jpg");
     }
     button{
       border-color: white;
